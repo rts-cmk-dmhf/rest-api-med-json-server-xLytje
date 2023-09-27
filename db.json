@@ -1,0 +1,12 @@
+{
+    "name":"Belt",
+    "price":"100 DKK",
+    "weight":"350g",
+    "colours":{
+        "brown":"Brown",
+        "black":"Black",
+        "cream":"Cream",
+        "white":"White"
+    },
+    "desc":"This stylish belt is made with passion from our best tailors and leather-workers."
+}
